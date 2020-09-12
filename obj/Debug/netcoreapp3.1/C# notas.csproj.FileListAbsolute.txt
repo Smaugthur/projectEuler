@@ -24,3 +24,16 @@ D:\Documentos\Dani Club\Programación\projectEuler\obj\Debug\netcoreapp3.1\C# no
 D:\Documentos\Dani Club\Programación\projectEuler\obj\Debug\netcoreapp3.1\C# notas.dll
 D:\Documentos\Dani Club\Programación\projectEuler\obj\Debug\netcoreapp3.1\C# notas.pdb
 D:\Documentos\Dani Club\Programación\projectEuler\obj\Debug\netcoreapp3.1\C# notas.genruntimeconfig.cache
+C:\Users\FAMILIA ROLDAN RAYO\Documents\Dani club\projectEuler\bin\Debug\netcoreapp3.1\C# notas.exe
+C:\Users\FAMILIA ROLDAN RAYO\Documents\Dani club\projectEuler\bin\Debug\netcoreapp3.1\C# notas.deps.json
+C:\Users\FAMILIA ROLDAN RAYO\Documents\Dani club\projectEuler\bin\Debug\netcoreapp3.1\C# notas.runtimeconfig.json
+C:\Users\FAMILIA ROLDAN RAYO\Documents\Dani club\projectEuler\bin\Debug\netcoreapp3.1\C# notas.runtimeconfig.dev.json
+C:\Users\FAMILIA ROLDAN RAYO\Documents\Dani club\projectEuler\bin\Debug\netcoreapp3.1\C# notas.dll
+C:\Users\FAMILIA ROLDAN RAYO\Documents\Dani club\projectEuler\bin\Debug\netcoreapp3.1\C# notas.pdb
+C:\Users\FAMILIA ROLDAN RAYO\Documents\Dani club\projectEuler\obj\Debug\netcoreapp3.1\C# notas.csprojAssemblyReference.cache
+C:\Users\FAMILIA ROLDAN RAYO\Documents\Dani club\projectEuler\obj\Debug\netcoreapp3.1\C# notas.AssemblyInfoInputs.cache
+C:\Users\FAMILIA ROLDAN RAYO\Documents\Dani club\projectEuler\obj\Debug\netcoreapp3.1\C# notas.AssemblyInfo.cs
+C:\Users\FAMILIA ROLDAN RAYO\Documents\Dani club\projectEuler\obj\Debug\netcoreapp3.1\C# notas.csproj.CoreCompileInputs.cache
+C:\Users\FAMILIA ROLDAN RAYO\Documents\Dani club\projectEuler\obj\Debug\netcoreapp3.1\C# notas.dll
+C:\Users\FAMILIA ROLDAN RAYO\Documents\Dani club\projectEuler\obj\Debug\netcoreapp3.1\C# notas.pdb
+C:\Users\FAMILIA ROLDAN RAYO\Documents\Dani club\projectEuler\obj\Debug\netcoreapp3.1\C# notas.genruntimeconfig.cache
