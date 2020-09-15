@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FAMILIA ROLDAN RAYO\\Documents\\Dani club\\projectEuler\\projectEuler.csproj",
-      "projectName": "projectEuler",
-      "projectPath": "C:\\Users\\FAMILIA ROLDAN RAYO\\Documents\\Dani club\\projectEuler\\projectEuler.csproj",
+      "projectUniqueName": "C:\\Users\\FAMILIA ROLDAN RAYO\\Documents\\Dani club\\projectEuler\\C# notas.csproj",
+      "projectName": "C# notas",
+      "projectPath": "C:\\Users\\FAMILIA ROLDAN RAYO\\Documents\\Dani club\\projectEuler\\C# notas.csproj",
       "packagesPath": "C:\\Users\\FAMILIA ROLDAN RAYO\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\FAMILIA ROLDAN RAYO\\Documents\\Dani club\\projectEuler\\obj\\",
       "projectStyle": "PackageReference",

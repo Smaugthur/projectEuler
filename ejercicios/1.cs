@@ -5,16 +5,8 @@ namespace ejercicio1
 {
     class Program
     {  
-        static void reto1()
-        {
-            Console.WriteLine(solucionOP(1000,3,5));
-            Console.WriteLine(solucionOP2(1000,3) + solucionOP2(1000,5) - solucionOP2(1000,15));
-            Console.WriteLine(miSolucion(1000,3) + miSolucion(1000,5) - miSolucion(1000,15));
-        }
-
-
         // SOLUCIÓN OPTIMA
-        static int solucionOP(int numMax,int num1, int num2)
+        public static int solucionOP(int numMax,int num1, int num2)
         {   
             int result = 0;
             // Bucle para sumar todos los multiplos de num1 y num2 menores de numMax.
@@ -30,7 +22,7 @@ namespace ejercicio1
         }
 
         // SOLUCIÓN MÁS OPTIMA:
-        static int solucionOP2(int numMax, int numMin)
+        public static int solucionOP2(int numMax, int numMin)
         {
             // Se resta 1 al número máximo para asegurar que es exclusivo, asi la suma es de multiplos menores de numMax.
             numMax -= 1;
@@ -40,7 +32,7 @@ namespace ejercicio1
         
 
         // MI SOLUCION: 
-        static int miSolucion (int numMax, int numbase)
+        public static int miSolucion (int numMax, int numbase)
         {
             int multiplo = 0;
             int sumaMultiplos = 0;
