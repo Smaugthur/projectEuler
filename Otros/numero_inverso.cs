@@ -1,9 +1,9 @@
-usgin System;
+using System;
 
 namespace otros
 {
     class Program
     {
-        
+
     }
 }
