@@ -6,7 +6,9 @@ namespace test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(ejercicio2.Program.fibonacci());
+
+            Console.WriteLine(otros.Program.Invierte_numeroOP(123456));
+
         }
     }
 }
