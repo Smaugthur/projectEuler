@@ -3,7 +3,7 @@ using System;
 namespace ejercicio3
 {
     class Program
-    {
+    {// PROBLEMA: Encontrar el factor primo más grande de 600851475143.
         // MI SOLUCION
         public static long miSolucion(long num)
         {

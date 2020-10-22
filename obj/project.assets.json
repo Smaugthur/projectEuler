@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\ccaro\\.nuget\\packages\\": {}
+    "C:\\Users\\FAMILIA ROLDAN RAYO\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documentos\\Dani Club\\Programación\\projectEuler\\C# notas.csproj",
+      "projectUniqueName": "C:\\Users\\FAMILIA ROLDAN RAYO\\Documents\\Dani club\\projectEuler\\C# notas.csproj",
       "projectName": "C# notas",
-      "projectPath": "D:\\Documentos\\Dani Club\\Programación\\projectEuler\\C# notas.csproj",
-      "packagesPath": "C:\\Users\\ccaro\\.nuget\\packages\\",
-      "outputPath": "D:\\Documentos\\Dani Club\\Programación\\projectEuler\\obj\\",
+      "projectPath": "C:\\Users\\FAMILIA ROLDAN RAYO\\Documents\\Dani club\\projectEuler\\C# notas.csproj",
+      "packagesPath": "C:\\Users\\FAMILIA ROLDAN RAYO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\FAMILIA ROLDAN RAYO\\Documents\\Dani club\\projectEuler\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ccaro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\FAMILIA ROLDAN RAYO\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"

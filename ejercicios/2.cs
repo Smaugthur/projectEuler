@@ -2,7 +2,7 @@ using System;
 using System.Diagnostics;
 
 namespace ejercicio2
-{
+{ // PROBLEMA: Encontrar la suma de todos los numeros pares menores de 4,000,000 pertenecientes a la serie de Fibonacci 
     class Program
     {   
         // SOLUCION OP

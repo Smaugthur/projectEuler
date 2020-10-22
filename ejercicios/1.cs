@@ -2,7 +2,7 @@
 using System.Diagnostics;
 
 namespace ejercicio1
-{
+{ // PROBLEMA: encontrar la suma de los multiplos de 3 y 5 menores de 1000
     class Program
     {  
         // SOLUCIÓN OPTIMA
