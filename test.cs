@@ -8,7 +8,7 @@ namespace test
         {
             Stopwatch time= new Stopwatch(); 
             time.Start();
-            Console.WriteLine(ejercicio4.Program.MiSolucion());
+            ejercicio4.Program.MiSolucion();
             time.Stop();
             Console.WriteLine(time.Elapsed.ToString());
         }
