@@ -6,11 +6,11 @@ namespace test
     {
         static void Main(string[] args)
         {
-            Stopwatch time= new Stopwatch(); 
-            time.Start();
-            ejercicio4.Program.MiSolucion();
-            time.Stop();
-            Console.WriteLine(time.Elapsed.ToString());
+            Stopwatch stopWatch = new Stopwatch();
+            stopWatch.Start();
+            Console.WriteLine(ejercicio5.Program.minimoComuMultiplo());
+            stopWatch.Stop();
+            Console.WriteLine(stopWatch.Elapsed.ToString());
         }
     }
 }
