@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FAMILIA ROLDAN RAYO\\Documents\\Dani club\\projectEuler\\C# notas.csproj": {}
+    "/mnt/d/Documentos/DaniClub/Programacion/projectEuler/C# notas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FAMILIA ROLDAN RAYO\\Documents\\Dani club\\projectEuler\\C# notas.csproj": {
+    "/mnt/d/Documentos/DaniClub/Programacion/projectEuler/C# notas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FAMILIA ROLDAN RAYO\\Documents\\Dani club\\projectEuler\\C# notas.csproj",
+        "projectUniqueName": "/mnt/d/Documentos/DaniClub/Programacion/projectEuler/C# notas.csproj",
         "projectName": "C# notas",
-        "projectPath": "C:\\Users\\FAMILIA ROLDAN RAYO\\Documents\\Dani club\\projectEuler\\C# notas.csproj",
-        "packagesPath": "C:\\Users\\FAMILIA ROLDAN RAYO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FAMILIA ROLDAN RAYO\\Documents\\Dani club\\projectEuler\\obj\\",
+        "projectPath": "/mnt/d/Documentos/DaniClub/Programacion/projectEuler/C# notas.csproj",
+        "packagesPath": "/home/smaugthur/.nuget/packages/",
+        "outputPath": "/mnt/d/Documentos/DaniClub/Programacion/projectEuler/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\FAMILIA ROLDAN RAYO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/smaugthur/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -50,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
         }
       }
     }

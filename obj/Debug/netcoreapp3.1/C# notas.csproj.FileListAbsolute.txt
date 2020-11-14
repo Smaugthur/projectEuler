@@ -1,39 +1,65 @@
-C:\Users\FAMILIA ROLDAN RAYO\Documents\Dani club\C# notas\bin\Debug\netcoreapp3.1\C# notas.exe
-C:\Users\FAMILIA ROLDAN RAYO\Documents\Dani club\C# notas\bin\Debug\netcoreapp3.1\C# notas.deps.json
-C:\Users\FAMILIA ROLDAN RAYO\Documents\Dani club\C# notas\bin\Debug\netcoreapp3.1\C# notas.runtimeconfig.json
-C:\Users\FAMILIA ROLDAN RAYO\Documents\Dani club\C# notas\bin\Debug\netcoreapp3.1\C# notas.runtimeconfig.dev.json
-C:\Users\FAMILIA ROLDAN RAYO\Documents\Dani club\C# notas\bin\Debug\netcoreapp3.1\C# notas.dll
-C:\Users\FAMILIA ROLDAN RAYO\Documents\Dani club\C# notas\bin\Debug\netcoreapp3.1\C# notas.pdb
-C:\Users\FAMILIA ROLDAN RAYO\Documents\Dani club\C# notas\obj\Debug\netcoreapp3.1\C# notas.csprojAssemblyReference.cache
-C:\Users\FAMILIA ROLDAN RAYO\Documents\Dani club\C# notas\obj\Debug\netcoreapp3.1\C# notas.AssemblyInfoInputs.cache
-C:\Users\FAMILIA ROLDAN RAYO\Documents\Dani club\C# notas\obj\Debug\netcoreapp3.1\C# notas.AssemblyInfo.cs
-C:\Users\FAMILIA ROLDAN RAYO\Documents\Dani club\C# notas\obj\Debug\netcoreapp3.1\C# notas.csproj.CoreCompileInputs.cache
-C:\Users\FAMILIA ROLDAN RAYO\Documents\Dani club\C# notas\obj\Debug\netcoreapp3.1\C# notas.dll
-C:\Users\FAMILIA ROLDAN RAYO\Documents\Dani club\C# notas\obj\Debug\netcoreapp3.1\C# notas.pdb
-C:\Users\FAMILIA ROLDAN RAYO\Documents\Dani club\C# notas\obj\Debug\netcoreapp3.1\C# notas.genruntimeconfig.cache
-D:\Documentos\Dani Club\Programación\projectEuler\bin\Debug\netcoreapp3.1\C# notas.exe
-D:\Documentos\Dani Club\Programación\projectEuler\bin\Debug\netcoreapp3.1\C# notas.deps.json
-D:\Documentos\Dani Club\Programación\projectEuler\bin\Debug\netcoreapp3.1\C# notas.runtimeconfig.json
-D:\Documentos\Dani Club\Programación\projectEuler\bin\Debug\netcoreapp3.1\C# notas.runtimeconfig.dev.json
-D:\Documentos\Dani Club\Programación\projectEuler\bin\Debug\netcoreapp3.1\C# notas.dll
-D:\Documentos\Dani Club\Programación\projectEuler\bin\Debug\netcoreapp3.1\C# notas.pdb
-D:\Documentos\Dani Club\Programación\projectEuler\obj\Debug\netcoreapp3.1\C# notas.csprojAssemblyReference.cache
-D:\Documentos\Dani Club\Programación\projectEuler\obj\Debug\netcoreapp3.1\C# notas.AssemblyInfoInputs.cache
-D:\Documentos\Dani Club\Programación\projectEuler\obj\Debug\netcoreapp3.1\C# notas.AssemblyInfo.cs
-D:\Documentos\Dani Club\Programación\projectEuler\obj\Debug\netcoreapp3.1\C# notas.csproj.CoreCompileInputs.cache
-D:\Documentos\Dani Club\Programación\projectEuler\obj\Debug\netcoreapp3.1\C# notas.dll
-D:\Documentos\Dani Club\Programación\projectEuler\obj\Debug\netcoreapp3.1\C# notas.pdb
-D:\Documentos\Dani Club\Programación\projectEuler\obj\Debug\netcoreapp3.1\C# notas.genruntimeconfig.cache
-C:\Users\FAMILIA ROLDAN RAYO\Documents\Dani club\projectEuler\bin\Debug\netcoreapp3.1\C# notas.exe
-C:\Users\FAMILIA ROLDAN RAYO\Documents\Dani club\projectEuler\bin\Debug\netcoreapp3.1\C# notas.deps.json
-C:\Users\FAMILIA ROLDAN RAYO\Documents\Dani club\projectEuler\bin\Debug\netcoreapp3.1\C# notas.runtimeconfig.json
-C:\Users\FAMILIA ROLDAN RAYO\Documents\Dani club\projectEuler\bin\Debug\netcoreapp3.1\C# notas.runtimeconfig.dev.json
-C:\Users\FAMILIA ROLDAN RAYO\Documents\Dani club\projectEuler\bin\Debug\netcoreapp3.1\C# notas.dll
-C:\Users\FAMILIA ROLDAN RAYO\Documents\Dani club\projectEuler\bin\Debug\netcoreapp3.1\C# notas.pdb
-C:\Users\FAMILIA ROLDAN RAYO\Documents\Dani club\projectEuler\obj\Debug\netcoreapp3.1\C# notas.csprojAssemblyReference.cache
-C:\Users\FAMILIA ROLDAN RAYO\Documents\Dani club\projectEuler\obj\Debug\netcoreapp3.1\C# notas.AssemblyInfoInputs.cache
-C:\Users\FAMILIA ROLDAN RAYO\Documents\Dani club\projectEuler\obj\Debug\netcoreapp3.1\C# notas.AssemblyInfo.cs
-C:\Users\FAMILIA ROLDAN RAYO\Documents\Dani club\projectEuler\obj\Debug\netcoreapp3.1\C# notas.csproj.CoreCompileInputs.cache
-C:\Users\FAMILIA ROLDAN RAYO\Documents\Dani club\projectEuler\obj\Debug\netcoreapp3.1\C# notas.dll
-C:\Users\FAMILIA ROLDAN RAYO\Documents\Dani club\projectEuler\obj\Debug\netcoreapp3.1\C# notas.pdb
-C:\Users\FAMILIA ROLDAN RAYO\Documents\Dani club\projectEuler\obj\Debug\netcoreapp3.1\C# notas.genruntimeconfig.cache
+C:/Users/FAMILIA ROLDAN RAYO/Documents/Dani club/C# notas/bin/Debug/netcoreapp3.1/C# notas.exe
+C:/Users/FAMILIA ROLDAN RAYO/Documents/Dani club/C# notas/bin/Debug/netcoreapp3.1/C# notas.deps.json
+C:/Users/FAMILIA ROLDAN RAYO/Documents/Dani club/C# notas/bin/Debug/netcoreapp3.1/C# notas.runtimeconfig.json
+C:/Users/FAMILIA ROLDAN RAYO/Documents/Dani club/C# notas/bin/Debug/netcoreapp3.1/C# notas.runtimeconfig.dev.json
+C:/Users/FAMILIA ROLDAN RAYO/Documents/Dani club/C# notas/bin/Debug/netcoreapp3.1/C# notas.dll
+C:/Users/FAMILIA ROLDAN RAYO/Documents/Dani club/C# notas/bin/Debug/netcoreapp3.1/C# notas.pdb
+C:/Users/FAMILIA ROLDAN RAYO/Documents/Dani club/C# notas/obj/Debug/netcoreapp3.1/C# notas.csprojAssemblyReference.cache
+C:/Users/FAMILIA ROLDAN RAYO/Documents/Dani club/C# notas/obj/Debug/netcoreapp3.1/C# notas.AssemblyInfoInputs.cache
+C:/Users/FAMILIA ROLDAN RAYO/Documents/Dani club/C# notas/obj/Debug/netcoreapp3.1/C# notas.AssemblyInfo.cs
+C:/Users/FAMILIA ROLDAN RAYO/Documents/Dani club/C# notas/obj/Debug/netcoreapp3.1/C# notas.csproj.CoreCompileInputs.cache
+C:/Users/FAMILIA ROLDAN RAYO/Documents/Dani club/C# notas/obj/Debug/netcoreapp3.1/C# notas.dll
+C:/Users/FAMILIA ROLDAN RAYO/Documents/Dani club/C# notas/obj/Debug/netcoreapp3.1/C# notas.pdb
+C:/Users/FAMILIA ROLDAN RAYO/Documents/Dani club/C# notas/obj/Debug/netcoreapp3.1/C# notas.genruntimeconfig.cache
+D:/Documentos/Dani Club/Programación/projectEuler/bin/Debug/netcoreapp3.1/C# notas.exe
+D:/Documentos/Dani Club/Programación/projectEuler/bin/Debug/netcoreapp3.1/C# notas.deps.json
+D:/Documentos/Dani Club/Programación/projectEuler/bin/Debug/netcoreapp3.1/C# notas.runtimeconfig.json
+D:/Documentos/Dani Club/Programación/projectEuler/bin/Debug/netcoreapp3.1/C# notas.runtimeconfig.dev.json
+D:/Documentos/Dani Club/Programación/projectEuler/bin/Debug/netcoreapp3.1/C# notas.dll
+D:/Documentos/Dani Club/Programación/projectEuler/bin/Debug/netcoreapp3.1/C# notas.pdb
+D:/Documentos/Dani Club/Programación/projectEuler/obj/Debug/netcoreapp3.1/C# notas.csprojAssemblyReference.cache
+D:/Documentos/Dani Club/Programación/projectEuler/obj/Debug/netcoreapp3.1/C# notas.AssemblyInfoInputs.cache
+D:/Documentos/Dani Club/Programación/projectEuler/obj/Debug/netcoreapp3.1/C# notas.AssemblyInfo.cs
+D:/Documentos/Dani Club/Programación/projectEuler/obj/Debug/netcoreapp3.1/C# notas.csproj.CoreCompileInputs.cache
+D:/Documentos/Dani Club/Programación/projectEuler/obj/Debug/netcoreapp3.1/C# notas.dll
+D:/Documentos/Dani Club/Programación/projectEuler/obj/Debug/netcoreapp3.1/C# notas.pdb
+D:/Documentos/Dani Club/Programación/projectEuler/obj/Debug/netcoreapp3.1/C# notas.genruntimeconfig.cache
+C:/Users/FAMILIA ROLDAN RAYO/Documents/Dani club/projectEuler/bin/Debug/netcoreapp3.1/C# notas.exe
+C:/Users/FAMILIA ROLDAN RAYO/Documents/Dani club/projectEuler/bin/Debug/netcoreapp3.1/C# notas.deps.json
+C:/Users/FAMILIA ROLDAN RAYO/Documents/Dani club/projectEuler/bin/Debug/netcoreapp3.1/C# notas.runtimeconfig.json
+C:/Users/FAMILIA ROLDAN RAYO/Documents/Dani club/projectEuler/bin/Debug/netcoreapp3.1/C# notas.runtimeconfig.dev.json
+C:/Users/FAMILIA ROLDAN RAYO/Documents/Dani club/projectEuler/bin/Debug/netcoreapp3.1/C# notas.dll
+C:/Users/FAMILIA ROLDAN RAYO/Documents/Dani club/projectEuler/bin/Debug/netcoreapp3.1/C# notas.pdb
+C:/Users/FAMILIA ROLDAN RAYO/Documents/Dani club/projectEuler/obj/Debug/netcoreapp3.1/C# notas.csprojAssemblyReference.cache
+C:/Users/FAMILIA ROLDAN RAYO/Documents/Dani club/projectEuler/obj/Debug/netcoreapp3.1/C# notas.AssemblyInfoInputs.cache
+C:/Users/FAMILIA ROLDAN RAYO/Documents/Dani club/projectEuler/obj/Debug/netcoreapp3.1/C# notas.AssemblyInfo.cs
+C:/Users/FAMILIA ROLDAN RAYO/Documents/Dani club/projectEuler/obj/Debug/netcoreapp3.1/C# notas.csproj.CoreCompileInputs.cache
+C:/Users/FAMILIA ROLDAN RAYO/Documents/Dani club/projectEuler/obj/Debug/netcoreapp3.1/C# notas.dll
+C:/Users/FAMILIA ROLDAN RAYO/Documents/Dani club/projectEuler/obj/Debug/netcoreapp3.1/C# notas.pdb
+C:/Users/FAMILIA ROLDAN RAYO/Documents/Dani club/projectEuler/obj/Debug/netcoreapp3.1/C# notas.genruntimeconfig.cache
+/mnt/d/Documentos/DaniClub/Programacion/projectEuler/bin/Debug/netcoreapp3.1/C# notas
+/mnt/d/Documentos/DaniClub/Programacion/projectEuler/bin/Debug/netcoreapp3.1/C# notas.deps.json
+/mnt/d/Documentos/DaniClub/Programacion/projectEuler/bin/Debug/netcoreapp3.1/C# notas.runtimeconfig.json
+/mnt/d/Documentos/DaniClub/Programacion/projectEuler/bin/Debug/netcoreapp3.1/C# notas.runtimeconfig.dev.json
+/mnt/d/Documentos/DaniClub/Programacion/projectEuler/bin/Debug/netcoreapp3.1/C# notas.dll
+/mnt/d/Documentos/DaniClub/Programacion/projectEuler/bin/Debug/netcoreapp3.1/C# notas.pdb
+/mnt/d/Documentos/DaniClub/Programacion/projectEuler/obj/Debug/netcoreapp3.1/C# notas.csprojAssemblyReference.cache
+/mnt/d/Documentos/DaniClub/Programacion/projectEuler/obj/Debug/netcoreapp3.1/C# notas.AssemblyInfoInputs.cache
+/mnt/d/Documentos/DaniClub/Programacion/projectEuler/obj/Debug/netcoreapp3.1/C# notas.AssemblyInfo.cs
+/mnt/d/Documentos/DaniClub/Programacion/projectEuler/obj/Debug/netcoreapp3.1/C# notas.csproj.CoreCompileInputs.cache
+/mnt/d/Documentos/DaniClub/Programacion/projectEuler/obj/Debug/netcoreapp3.1/C# notas.dll
+/mnt/d/Documentos/DaniClub/Programacion/projectEuler/obj/Debug/netcoreapp3.1/C# notas.pdb
+/mnt/d/Documentos/DaniClub/Programacion/projectEuler/obj/Debug/netcoreapp3.1/C# notas.genruntimeconfig.cache
+D:/Documentos/DaniClub/Programacion/projectEuler/bin/Debug/netcoreapp3.1/C# notas.exe
+D:/Documentos/DaniClub/Programacion/projectEuler/bin/Debug/netcoreapp3.1/C# notas.deps.json
+D:/Documentos/DaniClub/Programacion/projectEuler/bin/Debug/netcoreapp3.1/C# notas.runtimeconfig.json
+D:/Documentos/DaniClub/Programacion/projectEuler/bin/Debug/netcoreapp3.1/C# notas.runtimeconfig.dev.json
+D:/Documentos/DaniClub/Programacion/projectEuler/bin/Debug/netcoreapp3.1/C# notas.dll
+D:/Documentos/DaniClub/Programacion/projectEuler/bin/Debug/netcoreapp3.1/C# notas.pdb
+D:/Documentos/DaniClub/Programacion/projectEuler/obj/Debug/netcoreapp3.1/C# notas.csprojAssemblyReference.cache
+D:/Documentos/DaniClub/Programacion/projectEuler/obj/Debug/netcoreapp3.1/C# notas.AssemblyInfoInputs.cache
+D:/Documentos/DaniClub/Programacion/projectEuler/obj/Debug/netcoreapp3.1/C# notas.AssemblyInfo.cs
+D:/Documentos/DaniClub/Programacion/projectEuler/obj/Debug/netcoreapp3.1/C# notas.csproj.CoreCompileInputs.cache
+D:/Documentos/DaniClub/Programacion/projectEuler/obj/Debug/netcoreapp3.1/C# notas.dll
+D:/Documentos/DaniClub/Programacion/projectEuler/obj/Debug/netcoreapp3.1/C# notas.pdb
+D:/Documentos/DaniClub/Programacion/projectEuler/obj/Debug/netcoreapp3.1/C# notas.genruntimeconfig.cache

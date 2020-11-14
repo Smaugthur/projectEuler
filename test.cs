@@ -8,9 +8,9 @@ namespace test
         {
             Stopwatch stopWatch = new Stopwatch();
             stopWatch.Start();
-            Console.WriteLine(ejercicio5.Program.minimoComuMultiplo());
-            stopWatch.Stop();
-            Console.WriteLine(stopWatch.Elapsed.ToString());
+			ejercicio4.Program.MiSolucion();
+            stopWatch.Stop(); 
+			Console.WriteLine(stopWatch.Elapsed.ToString());
         }
     }
 }
