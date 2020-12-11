@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/d/Documentos/DaniClub/Programacion/projectEuler/C# notas.csproj",
+      "projectUniqueName": "/home/smaugthur/Documents/programacion/projectEuler/C# notas.csproj",
       "projectName": "C# notas",
-      "projectPath": "/mnt/d/Documentos/DaniClub/Programacion/projectEuler/C# notas.csproj",
+      "projectPath": "/home/smaugthur/Documents/programacion/projectEuler/C# notas.csproj",
       "packagesPath": "/home/smaugthur/.nuget/packages/",
-      "outputPath": "/mnt/d/Documentos/DaniClub/Programacion/projectEuler/obj/",
+      "outputPath": "/home/smaugthur/Documents/programacion/projectEuler/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/smaugthur/.nuget/NuGet/NuGet.Config"

@@ -10,9 +10,8 @@ namespace test
             //Stopwatch stopWatch = new Stopwatch();
             //stopWatch.Start();
             //stopWatch.Stop(); 
-			//Console.WriteLine(stopWatch.Elapsed.ToString());
-			
-			Console.WriteLine(ejercicio9.Program.TernaPitagorica());
+            //Console.WriteLine(stopWatch.Elapsed.ToString());
 		}
     }
 }
+

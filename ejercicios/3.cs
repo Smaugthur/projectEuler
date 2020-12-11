@@ -4,8 +4,32 @@ namespace ejercicio3
 {
     class Program
     {// PROBLEMA: Encontrar el factor primo más grande de 600851475143.
-        // MI SOLUCION
-        public static long miSolucion(long num)
+  
+        // SOLUCION 1: Teorema Fundamental de la Aritmetica. 
+        public static long solucion1(long num)
+        {                
+            long numeroTemp = num;
+            long factorPrimo= 0;
+            long contador = 2;
+            while(contador*contador<numeroTemp)
+            {
+                if(numeroTemp%contador==0)
+                {
+                    numeroTemp /= contador;
+                    factorPrimo = contador;
+                }
+                else
+                    contador ++;
+            }
+            if (numeroTemp>contador)
+            {
+                factorPrimo = numeroTemp;
+            }
+            return factorPrimo;
+        }
+
+        // SOLUCION 2: fuerza bruta 
+        public static long solucion2(long num)
         {
             bool divisor = false;
             long factorPrimo = 0;
@@ -28,28 +52,6 @@ namespace ejercicio3
             }
             return factorPrimo;
         }
-
-        // SOLUCION OP
-        public static long solucionOP(long num)
-        {                
-            long numeroTemp = num;
-            long factorPrimo= 0;
-            long contador = 2;
-            while(contador*contador<numeroTemp)
-            {
-                if(numeroTemp%contador==0)
-                {
-                    numeroTemp /= contador;
-                    factorPrimo = contador;
-                }
-                else
-                    contador ++;
-            }
-            if (numeroTemp>contador)
-            {
-                factorPrimo = numeroTemp;
-            }
-            return factorPrimo;
-        }
+        
     }
 }

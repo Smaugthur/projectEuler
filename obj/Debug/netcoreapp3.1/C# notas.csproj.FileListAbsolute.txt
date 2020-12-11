@@ -63,3 +63,16 @@ D:/Documentos/DaniClub/Programacion/projectEuler/obj/Debug/netcoreapp3.1/C# nota
 D:/Documentos/DaniClub/Programacion/projectEuler/obj/Debug/netcoreapp3.1/C# notas.dll
 D:/Documentos/DaniClub/Programacion/projectEuler/obj/Debug/netcoreapp3.1/C# notas.pdb
 D:/Documentos/DaniClub/Programacion/projectEuler/obj/Debug/netcoreapp3.1/C# notas.genruntimeconfig.cache
+/home/smaugthur/Documents/programacion/projectEuler/obj/Debug/netcoreapp3.1/C# notas.csprojAssemblyReference.cache
+/home/smaugthur/Documents/programacion/projectEuler/obj/Debug/netcoreapp3.1/C# notas.AssemblyInfoInputs.cache
+/home/smaugthur/Documents/programacion/projectEuler/obj/Debug/netcoreapp3.1/C# notas.AssemblyInfo.cs
+/home/smaugthur/Documents/programacion/projectEuler/obj/Debug/netcoreapp3.1/C# notas.csproj.CoreCompileInputs.cache
+/home/smaugthur/Documents/programacion/projectEuler/obj/Debug/netcoreapp3.1/C# notas.dll
+/home/smaugthur/Documents/programacion/projectEuler/obj/Debug/netcoreapp3.1/C# notas.pdb
+/home/smaugthur/Documents/programacion/projectEuler/bin/Debug/netcoreapp3.1/C# notas
+/home/smaugthur/Documents/programacion/projectEuler/bin/Debug/netcoreapp3.1/C# notas.deps.json
+/home/smaugthur/Documents/programacion/projectEuler/bin/Debug/netcoreapp3.1/C# notas.runtimeconfig.json
+/home/smaugthur/Documents/programacion/projectEuler/bin/Debug/netcoreapp3.1/C# notas.runtimeconfig.dev.json
+/home/smaugthur/Documents/programacion/projectEuler/bin/Debug/netcoreapp3.1/C# notas.dll
+/home/smaugthur/Documents/programacion/projectEuler/bin/Debug/netcoreapp3.1/C# notas.pdb
+/home/smaugthur/Documents/programacion/projectEuler/obj/Debug/netcoreapp3.1/C# notas.genruntimeconfig.cache

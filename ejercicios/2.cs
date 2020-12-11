@@ -5,8 +5,8 @@ namespace ejercicio2
 { // PROBLEMA: Encontrar la suma de todos los numeros pares menores de 4,000,000 pertenecientes a la serie de Fibonacci 
     class Program
     {   
-        // SOLUCION OP
-        public static long SolucionOP1()
+        // SOLUCION 1:
+        public static long solucion1()
         {
             long num3 = 2;
             long num6 = 0;
@@ -16,7 +16,7 @@ namespace ejercicio2
             while (resultado < 4_000_000)
             {
                 suma += resultado;
-                // resultado implementa un despeje para calcular el números pares de la serie sabiendo números pares anteriores.
+                // Calcula el suguiente numero par de la serie usando solo numero pares.
                 resultado = 4*num3 + num6;
                 num6 = num3;
                 num3 = resultado;
@@ -24,8 +24,8 @@ namespace ejercicio2
             return suma;
         }
 
-        // SOLUCION MÁS OP
-        public static long SolucionOP2()
+        // SOLUCION 2:
+        public static long solucion2()
         {
             long[] fib = {2,0};
             int i = 0;
@@ -34,7 +34,7 @@ namespace ejercicio2
             while (fib[i] < 4_000_000) 
             {
                 suma += fib[i];
-                // Esta operacion alterna los valores de 0 a 1 de "i" y así alternar entre los 2 elementos del array.
+                // Alternar el valor de i entre 0 y 1.
                 i = (i + 1) % 2;
                 // Calcular el valor siguiente de la secuencia y la coloca en la posición "i" del array.
                 fib[i] = 4 * fib[(i + 1) % 2] + fib[i];
@@ -42,8 +42,8 @@ namespace ejercicio2
             return suma;
         }
 
-        // MI SOLUCION
-        public static int miSolucion()
+        // SOLUCION 3: fuerza bruta
+        public static int solucion3()
         {
             int num1 = 1;
             int num2 = 2;
