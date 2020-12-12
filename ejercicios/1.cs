@@ -11,11 +11,11 @@ namespace ejercicio1
             // restar 1 para asegurar que excluye numMax.
             numMax -= 1;
             // Formula de Sucesion Aritmetica.
-            return (numMax/numMin)*((2*numMin)+((numMax/numMin)-1)*numMin)/2;
+            return (numMax/numMin)*(numMin+numMax)/2;
         }
 
 
-        // SOLUCION 1: fuerza bruta
+        // SOLUCION 2: fuerza bruta
         public static int solucion2(int numMax,int num1, int num2)
         {   
             int result = 0;

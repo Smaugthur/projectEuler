@@ -10,7 +10,7 @@ namespace ejercicio6
         {
             int minuendo = 0; 
             int sustraendo = 0;
-            minuendo = ejercicio1.Program.solucion1(numMax+1,1);
+            minuendo = (numMax/1) * (numMax+1)/2;
             sustraendo = (numMax * (numMax + 1) * (2 * numMax + 1)) / 6;
             return minuendo*minuendo - sustraendo;
         }

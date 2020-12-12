@@ -1,5 +1,5 @@
 using System;
-
+using static System.Math;
 namespace ejercicio9
 {
 	class Program
@@ -7,7 +7,7 @@ namespace ejercicio9
 	 //			  Pitágoras. Hay una terna Pitagórica donde a+b+c=1000. Encontrar el producto de a,b,c.
 
 		// SOLUCIÓN 1: fuerza bruta
-        public static int TernaPitagorica (int max)
+        public static int solucion1(int max)
         {
             int c = 0, producto = 0;
             for(int a=1; a<1000; a++)
@@ -27,9 +27,23 @@ namespace ejercicio9
         }
 
         //SOLUCIÓN 2: método Euclideo
-/*        public staic int TernaPitagorica2 ()
+        public static int solucion2(int max)
         {
-           
-        }*/
+            int m=0, n=1, producto=0; 
+            int lim=max/2;
+            while(true)
+            {
+                m=(int) Sqrt(lim+(n*n)/2)-(n/2);
+                if(m*(m+n)==lim)
+                {
+                    Console.WriteLine(m);
+                    Console.WriteLine(n);
+                    producto= (m*m-n*n) * (2*m*n) * (m*m+n*n);
+                    break;  
+                }
+                n++;
+            }
+            return producto;
+        }
 	}
 }
