@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/smaugthur/Documents/programacion/projectEuler/C# notas.csproj": {}
+    "/home/smaug/Documents/programacion/projectEuler/C# notas.csproj": {}
   },
   "projects": {
-    "/home/smaugthur/Documents/programacion/projectEuler/C# notas.csproj": {
+    "/home/smaug/Documents/programacion/projectEuler/C# notas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/smaugthur/Documents/programacion/projectEuler/C# notas.csproj",
+        "projectUniqueName": "/home/smaug/Documents/programacion/projectEuler/C# notas.csproj",
         "projectName": "C# notas",
-        "projectPath": "/home/smaugthur/Documents/programacion/projectEuler/C# notas.csproj",
-        "packagesPath": "/home/smaugthur/.nuget/packages/",
-        "outputPath": "/home/smaugthur/Documents/programacion/projectEuler/obj/",
+        "projectPath": "/home/smaug/Documents/programacion/projectEuler/C# notas.csproj",
+        "packagesPath": "/home/smaug/.nuget/packages/",
+        "outputPath": "/home/smaug/Documents/programacion/projectEuler/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/smaugthur/.nuget/NuGet/NuGet.Config"
+          "/home/smaug/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

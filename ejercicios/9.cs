@@ -26,8 +26,8 @@ namespace ejercicio9
             return producto;
         }
 
-        // SOLUCIÓN 2: método Euclideo
-        /*public staic int TernaPitagorica2 ()
+        //SOLUCIÓN 2: método Euclideo
+/*        public staic int TernaPitagorica2 ()
         {
            
         }*/

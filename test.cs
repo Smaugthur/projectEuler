@@ -11,6 +11,7 @@ namespace test
             //stopWatch.Start();
             //stopWatch.Stop(); 
             //Console.WriteLine(stopWatch.Elapsed.ToString());
+            Console.WriteLine(ejercicio6.Program.cuadradoDiferencia(100));
 		}
     }
 }

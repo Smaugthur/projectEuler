@@ -31,7 +31,7 @@ namespace ejercicio1
         }
 
         // SOLUCION 3: fuerza bruta
-        public static int miSolucion3 (int numMax, int numbase)
+        public static int Solucion3 (int numMax, int numbase)
         {
             int multiplo = 0;
             int sumaMultiplos = 0;
