@@ -1,6 +1,7 @@
 using System;
 using System.Diagnostics;
-using System.Text;
+using static System.Console;
+
 namespace test
 {
     class Program
@@ -9,11 +10,11 @@ namespace test
         {
             Stopwatch stopWatch = new Stopwatch();
             stopWatch.Start();
-            Console.WriteLine(ejercicio9.Program.solucion2(60));
+            //WriteLine(ejercicio10.Program.solucion1(2000000));
+            WriteLine(ejercicio10.Program.solucion2(2000000));
             stopWatch.Stop(); 
             Console.WriteLine(stopWatch.Elapsed.ToString());
-            //Console.WriteLine(ejercicio9.Program.solucion1(1000));
-		}
+        }
     }
 }
 
