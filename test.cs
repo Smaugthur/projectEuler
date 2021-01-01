@@ -8,11 +8,12 @@ namespace test
     {
         static void Main(string[] args)
         {
-            Stopwatch stopWatch = new Stopwatch();
+            /*Stopwatch stopWatch = new Stopwatch();
             stopWatch.Start();
             ejercicio12.Program.solucion2(500);
             stopWatch.Stop(); 
-            Console.WriteLine(stopWatch.Elapsed.ToString());
+            Console.WriteLine(stopWatch.Elapsed.ToString());*/
+            ejercicio13.Program.solucion1();
         }
     }
 }
