@@ -1,16 +1,16 @@
 using System;
 using static System.Math;
-namespace ejercicio9
-{
-	class Program
-	{// PROBLEMA: Una terna Pitagórica es un grupo de 3 numeros donde a<b<c que cumplen el Teorema de
-	 //			  Pitágoras. Hay una terna Pitagórica donde a+b+c=1000. Encontrar el producto de a,b,c.
-    
 
-		// SOLUCIÓN 1: fuerza bruta
-        public static int solucion1(int max)
+namespace exercise9
+{// PROBLEM: A Pythagorean triplet its a set of 3 natural numbers where a<b<c. That comply The
+ //          Pythagorean Teorem. There's a Pythagorean triplet where a+b+c=1000.
+ //          Find the the producto of a,b,c. 
+    class Program
+	{
+		// SOLUTION 1: Brute Force
+        public static int solution1(int max)
         {
-            int c = 0, producto = 0;
+            int c = 0, product= 0;
             for(int a=1; a<max; a++)
             {
                 for (int b=1; b<a; b++)
@@ -18,20 +18,20 @@ namespace ejercicio9
                     c=max-a-b;
 	                if(a*a+b*b == c*c)
                     {
-                        producto=a*b*c;
+                        product=a*b*c;
                         Console.WriteLine("a="+a+" b="+b+" c="+c);
                         break;
                     }
                 }
             }
-            return producto;
+            return product;
         }
 
-        // SOLUCIÓN 2: método Euclideo
-        // NOTA: esta solucion solo sirve para ternas primitivas.
-        public static int solucion2(int max)
+        // SOLUTION 2: Euclidean Method
+        // NOTE: this solution only works for primitive triplets.
+        public static int solution2(int max)
         {
-            int m=0, n=1, producto=0; 
+            int m=0, n=1, product=0; 
             int lim=max/2;
             while(true)
             {
@@ -40,12 +40,12 @@ namespace ejercicio9
                 {
                     Console.WriteLine(m);
                     Console.WriteLine(n);
-                    producto= (m*m-n*n) * (2*m*n) * (m*m+n*n);
+                    product= (m*m-n*n) * (2*m*n) * (m*m+n*n);
                     break;  
                 }
                 n++;
             }
-            return producto;
+            return product;
         }
 	}
 }

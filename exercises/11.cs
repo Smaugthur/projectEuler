@@ -1,7 +1,7 @@
 using System;
 
-namespace ejercicio11
-{/* PROBLEMA: encontrar los 4 numeros adyacentes con el mayor producto en la matriz.
+namespace exercise11
+{/* PROBLEM: find the 4 adyacents numbers with the biggest product on the array.
 
     {
         {08, 02, 22, 97, 38, 15, 00, 40, 00, 75, 04, 05, 07, 78, 52, 12, 50, 77, 91, 08},
@@ -28,55 +28,55 @@ namespace ejercicio11
 */
     class Program
     {
-        // SOLUCION 1: fuerza bruta
-        public static long solucion1(int[,] grid, int lim)
+        // SOLUTION 1: Brute force
+        public static long solution1(int[,] grid, int lim)
         {
-            long maxProducto=0;
+            long maxProduct=0;
             long Temp=1;
             int x=grid.GetLength(0);
             int y=grid.GetLength(1);
 
-            // recorre horizontal
+            // scan horizontally
             for(int i=0; i<x; i++)
             {
                 for(int e=0; e<(y-lim);e++)
                 {
                     Temp=grid[i,e] * grid[i,e+1] * grid[i,e+2] * grid[i,e+3];
-                    if(Temp>maxProducto)
-                        maxProducto=Temp;
+                    if(Temp>maxProduct)
+                        maxProduct=Temp;
                 }
             }
-            // recorre vertical
+            // scan vertically
             for(int i=0; i<y; i++)
             {
                 for(int e=0; e<(x-lim);e++)
                 {
                     Temp=grid[e,i] * grid[e+1,i] * grid[e+2,i] * grid[e+3,i];
-                    if(Temp>maxProducto)
-                        maxProducto=Temp;
+                    if(Temp>maxProduct)
+                        maxProduct=Temp;
                 }
             }
-            // recorre diagonal -45°
+            // scan diagonal -45°
             for(int i=0; i<(x-3); i++)
             {
                 for(int e=0; e<(y-3); e++)
                 {
                     Temp=grid[i,e] * grid[i+1,e+1] * grid[i+2,e+2] * grid[i+3,e+3];
-                    if(Temp>maxProducto)
-                        maxProducto=Temp;
+                    if(Temp>maxProduct)
+                        maxProduct=Temp;
                 }
             }
-            // recorre diagonal 45°
+            // scan diagonal 45°
             for(int i=x-1; i>2; i--)
             {
                 for(int e=0; e<(y-3); e++)
                 {
                     Temp=grid[i,e]*grid[i-1,e+1]*grid[i-2,e+2]*grid[i-3,e+3];
-                    if(Temp>maxProducto)
-                        maxProducto=Temp;
+                    if(Temp>maxProduct)
+                        maxProduct=Temp;
                 }
             }
-            return maxProducto;
+            return maxProduct;
         }
     }
 }
