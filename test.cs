@@ -12,7 +12,8 @@ namespace test
             stopWatch.Start();
             stopWatch.Stop(); 
             Console.WriteLine(stopWatch.Elapsed.ToString());*/
-            ejercicio14.Program.solution2();
+            exercise15.Program.solution1(20);
+            exercise15.Program.solution2(20);
         }
     }
 }
