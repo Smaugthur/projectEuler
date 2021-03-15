@@ -89,3 +89,16 @@ D:/Documentos/DaniClub/Programacion/projectEuler/obj/Debug/netcoreapp3.1/C# nota
 /home/smaug/Documents/programacion/projectEuler/bin/Debug/netcoreapp3.1/C# notas.dll
 /home/smaug/Documents/programacion/projectEuler/bin/Debug/netcoreapp3.1/C# notas.pdb
 /home/smaug/Documents/programacion/projectEuler/obj/Debug/netcoreapp3.1/C# notas.genruntimeconfig.cache
+C:\Users\hp\Documents\daniclub\programación\projectEuler\bin\Debug\netcoreapp3.1\C# notas.exe
+C:\Users\hp\Documents\daniclub\programación\projectEuler\bin\Debug\netcoreapp3.1\C# notas.deps.json
+C:\Users\hp\Documents\daniclub\programación\projectEuler\bin\Debug\netcoreapp3.1\C# notas.runtimeconfig.json
+C:\Users\hp\Documents\daniclub\programación\projectEuler\bin\Debug\netcoreapp3.1\C# notas.runtimeconfig.dev.json
+C:\Users\hp\Documents\daniclub\programación\projectEuler\bin\Debug\netcoreapp3.1\C# notas.dll
+C:\Users\hp\Documents\daniclub\programación\projectEuler\bin\Debug\netcoreapp3.1\C# notas.pdb
+C:\Users\hp\Documents\daniclub\programación\projectEuler\obj\Debug\netcoreapp3.1\C# notas.csprojAssemblyReference.cache
+C:\Users\hp\Documents\daniclub\programación\projectEuler\obj\Debug\netcoreapp3.1\C# notas.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\daniclub\programación\projectEuler\obj\Debug\netcoreapp3.1\C# notas.AssemblyInfo.cs
+C:\Users\hp\Documents\daniclub\programación\projectEuler\obj\Debug\netcoreapp3.1\C# notas.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\daniclub\programación\projectEuler\obj\Debug\netcoreapp3.1\C# notas.dll
+C:\Users\hp\Documents\daniclub\programación\projectEuler\obj\Debug\netcoreapp3.1\C# notas.pdb
+C:\Users\hp\Documents\daniclub\programación\projectEuler\obj\Debug\netcoreapp3.1\C# notas.genruntimeconfig.cache

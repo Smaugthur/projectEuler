@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "XJ76hMZuAHir23efAZ+i4erSaIwXB3ZAw03Cz2ZrOtR+k2vG1Nog35aNJgbDsRMGraoNdyqWJGapPsVKItD91Q==",
+  "dgSpecHash": "JN1w2EZ3Afrb4BvYhX+tPYChV9s1StX+cykwofsg2cGYreUvUbfnWfF4ax3VFb5/ddjD6wXO0wgBa07LnGoTZQ==",
   "success": true,
-  "projectFilePath": "/home/smaug/Documents/programacion/projectEuler/C# notas.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\hp\\Documents\\daniclub\\programación\\projectEuler\\C# notas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
   "logs": []
 }
